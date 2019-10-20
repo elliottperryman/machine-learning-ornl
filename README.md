@@ -1,5 +1,9 @@
 # machine-learning-Ca45
-This is all the machine learning code I've used for Nab and Ca45 data
+This is all the machine learning code I've used for Nab and Ca45 data.
+If you want to just jump in, check out 
+* DNP_2019 for the most recent code
+* data-exploration for all my data-exploration code
+* others for more side problems (optimized synthetic data generation, optimal proprocessing filtering, etc)
 
 # Organization
 Since this is a comprehensive repository of all the machine learning 
